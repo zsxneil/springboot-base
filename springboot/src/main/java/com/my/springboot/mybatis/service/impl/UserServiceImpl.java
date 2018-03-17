@@ -16,6 +16,7 @@ public class UserServiceImpl implements UserService {
     UserMapper userMapper;
 
     @Override
+    //@Transactional(readOnly = true)
     public int insert(User user) {
         return userMapper.insert(user);
     }
@@ -36,7 +37,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    //@Transactional(readOnly = true)
+    //@Transactional(readOnly = false)
     public User selectOne(int id) {
         User user = userMapper.selectOne(id);
         user.setUsername("txtest");

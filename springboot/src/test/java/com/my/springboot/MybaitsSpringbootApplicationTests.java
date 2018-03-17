@@ -54,9 +54,9 @@ public class MybaitsSpringbootApplicationTests {
 		user.setSex(2);
 
 		userService.insert(user);
-		int id = user.getId();
+		/*int id = user.getId();
 		User selectUser = userService.selectOne(id);
-		System.out.println(selectUser);
+		System.out.println(selectUser);*/
 	}
 
 }
