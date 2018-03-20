@@ -165,8 +165,4 @@ INSERT INTO `user` VALUES ('52', 'Neil', '2018-03-17', '2', '深圳市');
 INSERT INTO `user` VALUES ('66', 'Neil', '2018-03-17', '2', '深圳市');
 INSERT INTO `user` VALUES ('67', 'Neil', '2018-03-17', '2', '深圳市');
 INSERT INTO `user` VALUES ('70', 'txtest', '2018-03-17', '2', '深圳市');
-INSERT INTO `user` VALUES ('71', 'txtest', '2018-03-17', '2', '深圳市');
-INSERT INTO `user` VALUES ('72', 'txtest', '2018-03-17', '2', '深圳市');
-INSERT INTO `user` VALUES ('73', 'txtest', '2018-03-17', '2', '深圳市');
-INSERT INTO `user` VALUES ('74', 'txtest', '2018-03-17', '2', '深圳市');
 INSERT INTO `user` VALUES ('75', 'Neil', '2018-03-17', '2', '深圳市');
