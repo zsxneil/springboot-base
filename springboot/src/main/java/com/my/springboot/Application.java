@@ -22,6 +22,7 @@ import org.springframework.transaction.interceptor.TransactionInterceptor;
 //		AspectJExpressionPointcutAdvisor.class,
 //		TransactionAttributeSource.class
 		})
+
 public class Application {
 
 	public static void main(String[] args) {

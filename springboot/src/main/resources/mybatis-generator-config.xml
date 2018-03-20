@@ -47,10 +47,10 @@
         <!-- !!!! Table Configurations !!!! -->
         <table tableName="items" enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
                enableUpdateByExample="false" domainObjectName="Item"> <!--觉得这种方式比较好，不生成example-->
-            <generatedKey column="id" sqlStatement="Mysql"/>
+            <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
         </table>
         <table tableName="orders" domainObjectName="Order">
-            <generatedKey column="id" sqlStatement="Mysql"/>
+            <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
         </table>
     </context>
 </generatorConfiguration>
