@@ -52,5 +52,9 @@
         <table tableName="orders" domainObjectName="Order">
             <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
         </table>
+        <table tableName="province" domainObjectName="Province" enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
+               enableUpdateByExample="false" >
+            <generatedKey column="id" sqlStatement="select replace(uuid(),'-','')" />
+        </table>
     </context>
 </generatorConfiguration>
