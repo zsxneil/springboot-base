@@ -102,4 +102,10 @@
       code = #{code,jdbcType=INTEGER}
     where id = #{id,jdbcType=VARCHAR}
   </update>
+
+  <select id="getAllProvinces" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />
+    from province
+  </select>
 </mapper>
