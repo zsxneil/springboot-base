@@ -41,7 +41,7 @@ public class DBConfig {
 
 
     @Primary
-    @Bean
+    @Bean("druidDataSource")
     public DataSource druidDataSource() {
         DruidDataSource dataSource = new DruidDataSource();
         dataSource.setUrl(dbUrl);
