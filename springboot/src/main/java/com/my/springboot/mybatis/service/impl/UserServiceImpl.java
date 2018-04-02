@@ -37,7 +37,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    //@Transactional(readOnly = false)
+//    @Transactional(readOnly = true)
     public User selectOne(int id) {
         User user = userMapper.selectOne(id);
         user.setUsername("txtest");

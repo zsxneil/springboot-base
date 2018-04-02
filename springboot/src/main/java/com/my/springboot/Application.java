@@ -15,9 +15,9 @@ import org.springframework.transaction.interceptor.TransactionInterceptor;
 //@EnableTransactionManagement
 @SpringBootApplication
 @EnableAutoConfiguration(exclude={
-		 //DataSourceAutoConfiguration.class,
+//		 DataSourceAutoConfiguration.class,
 		// HibernateJpaAutoConfiguration.class, //（如果使用Hibernate时，需要加）
-		// DataSourceTransactionManagerAutoConfiguration.class,
+//		DataSourceTransactionManagerAutoConfiguration.class,
 //		TransactionInterceptor.class,
 //		AspectJExpressionPointcutAdvisor.class,
 //		TransactionAttributeSource.class
