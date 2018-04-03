@@ -2,10 +2,7 @@ package com.zsxneil.bing.task;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import okhttp3.Callback;
-import okhttp3.OkHttpClient;
-import okhttp3.Request;
-import okhttp3.Response;
+import okhttp3.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
@@ -27,12 +24,14 @@ public class FetchBingPicuresTask {
     @Value("${bing.image.dir}")
     private String imageDir;
 
-    @Scheduled(cron="0 15 23 * * ?")
+    OkHttpClient client = new OkHttpClient.Builder()
+            .connectTimeout(10, TimeUnit.SECONDS)
+            .readTimeout(100, TimeUnit.SECONDS)
+            .build();
+
+    @Scheduled(cron="0 59 23 * * ?")
     public void fetchBingPictures() {
-        OkHttpClient client = new OkHttpClient.Builder()
-                .connectTimeout(10, TimeUnit.SECONDS)
-                .readTimeout(100, TimeUnit.SECONDS)
-                .build();
+
 
         this.fetchIndexedImages(0, client);
         this.fetchIndexedImages(10, client);
@@ -81,22 +80,29 @@ public class FetchBingPicuresTask {
                 .url(url)
                 .get()
                 .build();
-        Response response = client.newCall(request).execute();
-        if (response.isSuccessful()) {
-            String fileName = url.substring(url.lastIndexOf('/'));
-            OutputStream out = null;
-            try {
-                out = new FileOutputStream(new File(imageDir, fileName));
-                out.write(response.body().bytes());
-            } catch (FileNotFoundException e) {
+        client.newCall(request).enqueue(new Callback() {
+            @Override
+            public void onFailure(Call call, IOException e) {
                 log.error(e.getLocalizedMessage(),e);
-            } finally {
-                out.close();
             }
 
-        } else {
-            log.info(String.format("download image failed, response code is %d, response body is %s", response.code(), response.body().string()));
-        }
+            @Override
+            public void onResponse(Call call, Response response) throws IOException {
+                if (response.isSuccessful()) {
+                    String fileName = url.substring(url.lastIndexOf('/'));
+                    OutputStream out = null;
+                    try {
+                        out = new FileOutputStream(new File(imageDir, fileName));
+                        out.write(response.body().bytes());
+                    } catch (FileNotFoundException e) {
+                        log.error(e.getLocalizedMessage(),e);
+                    } finally {
+                        out.close();
+                    }
+
+                }
+            }
+        });
     }
 
 }
