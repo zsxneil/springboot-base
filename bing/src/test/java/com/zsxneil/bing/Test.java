@@ -173,4 +173,14 @@ public class Test {
         System.out.println(cookieStore);*/
 
     }
+
+
+    @org.junit.Test
+    public void  urlTest() {
+        String src = "http://imglf3.nosdn.127.net/img/RzJPU1E4RWk4SHZZbWlxODJ2UEMvaUxWSFp5VitWV3YyV0hDQlR1ZnpFcFh5enFYVWVuN3dnPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg";
+        int position = src.indexOf("?");
+        src = src.substring(0, position);
+        src = src + "?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg";
+        System.out.println(src);
+    }
 }

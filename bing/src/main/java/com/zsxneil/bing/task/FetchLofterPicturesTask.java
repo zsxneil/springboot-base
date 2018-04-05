@@ -21,7 +21,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
-import sun.applet.Main;
 
 import java.io.*;
 import java.net.URL;
@@ -53,7 +52,7 @@ public class FetchLofterPicturesTask {
      * 从rss中获取更新内容并解析出图片地址，下载图片
      * @throws IOException
      */
-    @Scheduled(cron="0 13 15 * * ?")
+    @Scheduled(cron="0 10 17 * * ?")
     public void fetchLofterImages() {
         try (XmlReader reader = new XmlReader(new URL(rssUrl))) {
             SyndFeed feed = new SyndFeedInput().build(reader);
@@ -89,7 +88,10 @@ public class FetchLofterPicturesTask {
             String src = img.attr("src");
             if (!StringUtils.hasText(src))
                 continue;
-            src = src.replaceAll("(thumbnail=[^&]*)","thumbnail=1680x0");
+            int position = src.indexOf("?");
+            src = src.substring(0, position);
+            src += "?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg";
+            //src = src.replaceAll("(thumbnail=[^&]*)","thumbnail=1680x0");
             LofterImage image = new LofterImage();
             image.setLink(src);
             image.setReferid(referId);
