@@ -8,9 +8,7 @@ import org.springframework.util.StringUtils;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.TemporalField;
 import java.util.Date;
-import java.util.concurrent.TimeUnit;
 
 @Service
 public class SrialNumberServiceImpl implements ISerialNumberService {
@@ -32,10 +30,11 @@ public class SrialNumberServiceImpl implements ISerialNumberService {
         //获取当前时间,返回格式如yyyyMMdd
         String date = LocalDate.now().format(DateTimeFormatter.ofPattern("yyyyMMdd"));
 
-        //构造redis过期时间 UnixMillis
-        //设置过期时间为当前日的最后一纳秒
-        LocalDateTime lastSecondOfThisDay = LocalDateTime.of(LocalDate.now(), LocalTime.MAX);
-        Date dateTime = Date.from(lastSecondOfThisDay.toInstant(ZoneOffset.of("+8")));
+        //构造redis过期时间 Date
+        //设置过期时间为第二日的零点零分；其实不设置过期也无所谓
+        LocalDate localDate = LocalDate.now().plusDays(1);
+        LocalDateTime localDateTime = localDate.atTime(0, 0, 0);
+        Date dateTime = Date.from(localDateTime.toInstant(ZoneOffset.of("+8")));
 
         //构造redis的key
         String key = SERIAL_NUMBER + date +":"+ bizCode;
@@ -55,6 +54,13 @@ public class SrialNumberServiceImpl implements ISerialNumberService {
         return sb.toString();
     }
 
+
+    public static void main(String[] args) {
+        LocalDate localDate = LocalDate.now().plusDays(1);
+        LocalDateTime localDateTime = localDate.atTime(0, 0, 0);
+        Date dateTime = Date.from(localDateTime.toInstant(ZoneOffset.of("+8")));
+        System.out.println(dateTime);
+    }
 
 
 }

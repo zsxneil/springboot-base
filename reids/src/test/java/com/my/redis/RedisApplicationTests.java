@@ -58,6 +58,10 @@ public class RedisApplicationTests {
 		Assert.assertEquals(true,redisTemplate.hasKey("User:zzq"));
 	}
 
+	/**
+	 * 测试业务流水号
+	 * @throws Exception
+	 */
 	@Test
 	public void serialNumTest() throws Exception {
 		String bizCode = "R";
