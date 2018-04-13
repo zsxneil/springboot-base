@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: client
+  cloud:
+    config:
+      uri: http://127.0.0.1:8888
+      profile: dev
+  devtools:
+    livereload:
+      port: 35728
+
+my:
+  name: test

@@ -20,9 +20,9 @@
         <!-- !!!! Database Configurations !!!! -->
         <jdbcConnection
                 driverClass="com.mysql.jdbc.Driver"
-                connectionURL="jdbc:mysql://localhost:3306/mybatis"
+                connectionURL="jdbc:mysql://172.18.2.154:3306/ksmeas"
                 userId="root"
-                password="123456"/>
+                password="kingdee%2015"/>
 
         <javaTypeResolver>
             <property name="forceBigDecimals" value="false"/>
@@ -45,14 +45,19 @@
         </javaClientGenerator>
 
         <!-- !!!! Table Configurations !!!! -->
-        <table tableName="items" enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" domainObjectName="Item"> <!--觉得这种方式比较好，不生成example-->
+        <!--<table tableName="items" enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
+               enableUpdateByExample="false" domainObjectName="Item"> &lt;!&ndash;觉得这种方式比较好，不生成example&ndash;&gt;
             <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
         </table>
         <table tableName="orders" domainObjectName="Order">
             <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
         </table>
         <table tableName="province" domainObjectName="Province" enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
+               enableUpdateByExample="false" >
+            <generatedKey column="id" sqlStatement="select replace(uuid(),'-','')" />
+        </table>-->
+
+        <table tableName="t_yunboundle" domainObjectName="YunBoundle" enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
                enableUpdateByExample="false" >
             <generatedKey column="id" sqlStatement="select replace(uuid(),'-','')" />
         </table>
