@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
+    <w:body>
+        <w:p w:rsidR="00962A02" w:rsidRDefault="00E06095">
+            <w:r>
+                <w:t>金</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:t>蝶中国</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:t>云巡检报告</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00E06095" w:rsidRDefault="00E06095"/>
+        <w:p w:rsidR="00E06095" w:rsidRDefault="00E06095"/>
+        <w:p w:rsidR="00E06095" w:rsidRDefault="00E06095">
+            <w:r>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:tab/>
+                <w:t>V2.2</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B">
+            <w:pPr>
+                <w:sectPr w:rsidR="00993A4B">
+                    <w:footerReference w:type="default" r:id="rId8"/>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:sdt>
+            <w:sdtPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi"
+                              w:cstheme="minorBidi"/>
+                    <w:color w:val="auto"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:val="zh-CN"/>
+                </w:rPr>
+                <w:id w:val="-581448577"/>
+                <w:docPartObj>
+                    <w:docPartGallery w:val="Table of Contents"/>
+                    <w:docPartUnique/>
+                </w:docPartObj>
+            </w:sdtPr>
+            <w:sdtEndPr>
+                <w:rPr>
+                    <w:b/>
+                    <w:bCs/>
+                </w:rPr>
+            </w:sdtEndPr>
+            <w:sdtContent>
+                <w:p w:rsidR="00E82353" w:rsidRDefault="00E82353" w:rsidP="001932BC">
+                    <w:pPr>
+                        <w:pStyle w:val="TOC"/>
+                        <w:jc w:val="center"/>
+                    </w:pPr>
+                    <w:r>
+                        <w:rPr>
+                            <w:lang w:val="zh-CN"/>
+                        </w:rPr>
+                        <w:t>目录</w:t>
+                    </w:r>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00E82353">
+                    <w:pPr>
+                        <w:pStyle w:val="10"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:r>
+                        <w:fldChar w:fldCharType="begin"/>
+                    </w:r>
+                    <w:r>
+                        <w:instrText xml:space="preserve"> TOC \o "1-3" \h \z \u </w:instrText>
+                    </w:r>
+                    <w:r>
+                        <w:fldChar w:fldCharType="separate"/>
+                    </w:r>
+                    <w:hyperlink w:anchor="_Toc513318446" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>一、</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>前言</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318446 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>3</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="10"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318447" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>二、</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>EAS</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>巡检服务介绍</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318447 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>4</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="10"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318448" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>三、</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>系统巡检结果综述</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318448 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>5</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="10"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318449" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>四、</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>客户应用现状</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318449 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>6</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="10"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318450" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>五、</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>客户</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>EAS</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>应用现状</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318450 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>7</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="20"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318451" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>1.</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"
+                                          w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>应用服务器系统检测</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318451 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>7</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="20"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318452" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>2.</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>Apusic</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"
+                                          w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>现状检测</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318452 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>8</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="20"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318453" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>3.</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>EAS JDK</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"
+                                          w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>检测</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318453 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>9</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00C2544A" w:rsidRDefault="00F31ACD">
+                    <w:pPr>
+                        <w:pStyle w:val="10"/>
+                        <w:tabs>
+                            <w:tab w:val="left" w:pos="840"/>
+                            <w:tab w:val="right" w:leader="dot" w:pos="8296"/>
+                        </w:tabs>
+                        <w:rPr>
+                            <w:noProof/>
+                        </w:rPr>
+                    </w:pPr>
+                    <w:hyperlink w:anchor="_Toc513318454" w:history="1">
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>六、</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A" w:rsidRPr="004C176C">
+                            <w:rPr>
+                                <w:rStyle w:val="a6"/>
+                                <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>备注说明</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:instrText xml:space="preserve"> PAGEREF _Toc513318454 \h </w:instrText>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:t>10</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00C2544A">
+                            <w:rPr>
+                                <w:noProof/>
+                                <w:webHidden/>
+                            </w:rPr>
+                            <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                    </w:hyperlink>
+                </w:p>
+                <w:p w:rsidR="00E82353" w:rsidRDefault="00E82353">
+                    <w:r>
+                        <w:rPr>
+                            <w:b/>
+                            <w:bCs/>
+                            <w:lang w:val="zh-CN"/>
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="end"/>
+                    </w:r>
+                </w:p>
+            </w:sdtContent>
+        </w:sdt>
+        <w:p w:rsidR="00E06095" w:rsidRDefault="00E06095"/>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B"/>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B">
+            <w:pPr>
+                <w:sectPr w:rsidR="00993A4B">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B" w:rsidP="00993A4B">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_Toc513318446"/>
+            <w:r w:rsidRPr="00993A4B">
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>前言</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+        </w:p>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B" w:rsidP="00993A4B">
+            <w:r>
+                <w:t>金</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:t>蝶中国</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:t>的简介</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B" w:rsidP="00993A4B">
+            <w:pPr>
+                <w:sectPr w:rsidR="00993A4B">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B" w:rsidP="00993A4B">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="1" w:name="_Toc513318447"/>
+            <w:r w:rsidRPr="00993A4B">
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>EAS巡检服务介绍</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="1"/>
+        </w:p>
+        <w:p w:rsidR="00993A4B" w:rsidRDefault="00993A4B" w:rsidP="006A026D">
+            <w:pPr>
+                <w:ind w:firstLine="420"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统巡检服务是金蝶软件有限公司推出的一款</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>专为保障</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>企业客户</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统环境运</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>维稳定</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>健康的服务，通过日常对</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统运行环境监控，定期对系统健康状况全面检查评估，达到有效预防问题，高效解决问题，从而保障系统持续稳定可用，提升</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IT</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统对业务支撑价值。随着</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>标准产品的不断更新，标准产品本身导致的性能问题已越来越少，但随着企业业务应用需求的变化和业务量的扩展，需要定期对</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统进行定期的检测维护，由于常规运</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>维导而</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>致性能问题</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>,</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>运</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>维问题</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>典型的有：软硬件配置不能支撑当前业务模式，服务器垃圾未清理、数据库碎片严重、随着数据量增长，数据文件存储规划、参数配置已不够优化等，定期的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统巡检必不可少</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>!</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00251A20" w:rsidRDefault="00251A20" w:rsidP="00251A20">
+            <w:pPr>
+                <w:sectPr w:rsidR="00251A20" w:rsidSect="002970B3">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00251A20" w:rsidRDefault="00251A20" w:rsidP="00251A20">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="2" w:name="_Toc513318448"/>
+            <w:r w:rsidRPr="00251A20">
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>系统巡检结果综述</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="2"/>
+        </w:p>
+        <w:p w:rsidR="00251A20" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00251A20">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>此次</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>检测共检测</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>了7993项,检测通过了7962项,健康分数71分,风险,在此次检测中已超过71%的客户！</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00251A20">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00251A20">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>为保证EAS系统健康运行,建议</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>您持续</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>优化未通过的检测内容。同时我们建议</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>您重点</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>关注以下内容：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>服务器优化建议：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>服务器运行良好，暂不需要优化调整。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>EAS优化建议：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>严重风险 重度</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">风险 风险 </w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>亚健康 良好</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRPr="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>1、 EAS JDK实例设置不当，建议立即调整。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00A73D9C" w:rsidRDefault="00A73D9C" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00A73D9C">
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2、 EAS产品字段规范性存在异常，建议立即修复。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="007B3AB6" w:rsidRDefault="007B3AB6" w:rsidP="00A73D9C">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                </w:rPr>
+                <w:sectPr w:rsidR="007B3AB6" w:rsidSect="002970B3">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="007B3AB6" w:rsidRDefault="007B3AB6" w:rsidP="007B3AB6">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="3" w:name="_Toc513318449"/>
+            <w:r w:rsidRPr="007B3AB6">
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>客户应用现状</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="3"/>
+        </w:p>
+        <w:p w:rsidR="007B3AB6" w:rsidRDefault="007B3AB6" w:rsidP="007B3AB6">
+            <w:r>
+                <w:t>一些图表</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="007B3AB6" w:rsidRDefault="007B3AB6" w:rsidP="007B3AB6"/>
+        <w:p w:rsidR="000F2506" w:rsidRDefault="000F2506" w:rsidP="007B3AB6"/>
+        <w:p w:rsidR="000F2506" w:rsidRDefault="000F2506" w:rsidP="007B3AB6"/>
+        <w:p w:rsidR="000F2506" w:rsidRDefault="000F2506" w:rsidP="007B3AB6"/>
+        <w:p w:rsidR="000F2506" w:rsidRDefault="000F2506" w:rsidP="007B3AB6">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:sectPr w:rsidR="000F2506" w:rsidSect="002970B3">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="4" w:name="_GoBack"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0">
+                        <wp:extent cx="4596748" cy="6791325"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="1" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="1" name="-2419679_-596377754.jpg"/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="beauty">
+                                            <a:extLst>
+                                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                    <a14:useLocalDpi
+                                                            xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"
+                                                            val="0"/>
+                                                </a:ext>
+                                            </a:extLst>
+                                        </a:blip>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="4600067" cy="6796229"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:bookmarkEnd w:id="4"/>
+        </w:p>
+        <w:p w:rsidR="007B3AB6" w:rsidRDefault="007B3AB6" w:rsidP="007B3AB6">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="5" w:name="_Toc513318450"/>
+            <w:r w:rsidRPr="007B3AB6">
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>客户EAS应用现状</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="5"/>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="6" w:name="_Toc513318451"/>
+            <w:r w:rsidRPr="000D19C4">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>应用服务器系统检测</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="6"/>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:r>
+                <w:t>图片</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:r>
+                <w:t>接着是一些表格</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:sectPr w:rsidR="000D19C4" w:rsidSect="002970B3">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="7" w:name="_Toc513318452"/>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="000D19C4">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>Apusic</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="000D19C4">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>现状检测</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="7"/>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:r>
+                <w:t>一些表格</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4"/>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:sectPr w:rsidR="000D19C4" w:rsidSect="002970B3">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="8" w:name="_Toc513318453"/>
+            <w:r w:rsidRPr="000D19C4">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>EAS</w:t>
+            </w:r>
+            <w:r w:rsidRPr="000D19C4">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑 Light" w:eastAsia="微软雅黑 Light" w:hAnsi="微软雅黑 Light"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> JDK检测</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="8"/>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:r>
+                <w:t>一些表格</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4"/>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:sectPr w:rsidR="000D19C4" w:rsidSect="002970B3">
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                             w:gutter="0"/>
+                    <w:cols w:space="425"/>
+                    <w:docGrid w:type="lines" w:linePitch="312"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="9" w:name="_Toc513318454"/>
+            <w:r w:rsidRPr="000D19C4">
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>备注说明</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="9"/>
+        </w:p>
+        <w:p w:rsidR="000D19C4" w:rsidRPr="000D19C4" w:rsidRDefault="000D19C4" w:rsidP="000D19C4">
+            <w:r>
+                <w:t>无内容啊</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="000D19C4" w:rsidRPr="000D19C4" w:rsidSect="002970B3">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1080" w:bottom="1440" w:left="1080" w:header="851" w:footer="992"
+                     w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
