@@ -3,7 +3,7 @@ package com.my.springboot;
 import java.util.concurrent.TimeUnit;
 
 public class SyncStatic {
-    public synchronized static void nonSync() {
+    public synchronized void nonSync() {
         System.out.println("nonstatic nonsync methond running...");
     }
 

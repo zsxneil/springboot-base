@@ -31,7 +31,7 @@ public class CustomTest {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        SyncStatic.nonSync();
+        new SyncStatic().nonSync();
         SyncStatic.sync();
     }
 }
