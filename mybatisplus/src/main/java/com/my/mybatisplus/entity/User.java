@@ -1,8 +1,6 @@
 package com.my.mybatisplus.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
-import com.baomidou.mybatisplus.annotation.TableName;
-import com.baomidou.mybatisplus.extension.activerecord.Model;
 import com.baomidou.mybatisplus.annotation.TableId;
 import java.io.Serializable;
 
@@ -14,8 +12,7 @@ import java.io.Serializable;
  * @author zsxneil
  * @since 2019-03-26
  */
-@TableName("user")
-public class User extends Model<User> {
+public class User implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
@@ -71,11 +68,6 @@ public class User extends Model<User> {
 
     public void setEmail(String email) {
         this.email = email;
-    }
-
-    @Override
-    protected Serializable pkVal() {
-        return this.id;
     }
 
     @Override

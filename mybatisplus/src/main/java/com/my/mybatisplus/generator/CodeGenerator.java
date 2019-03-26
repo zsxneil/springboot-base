@@ -14,7 +14,7 @@ public class CodeGenerator {
 
         //1. 全局配置
         GlobalConfig config = new GlobalConfig();
-        config.setActiveRecord(true) // 是否支持AR模式
+        config.setActiveRecord(false) // 是否支持AR模式
                 .setAuthor("zsxneil") // 作者
                 .setOutputDir("E:\\web\\idea-workspace\\springboot-base\\mybatisplus\\src\\main\\java") // 生成路径
                 .setFileOverride(true)  // 文件覆盖
