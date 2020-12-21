@@ -9,7 +9,7 @@ import org.springframework.web.reactive.function.server.RequestPredicates;
 import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.RouterFunctions;
 
-@Configuration
+//@Configuration
 public class Router {
 
     @Autowired private HelloWorldHandler helloWorldHandler;

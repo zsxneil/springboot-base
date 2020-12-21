@@ -11,7 +11,7 @@ import org.springframework.data.redis.serializer.RedisSerializationContext;
 
 import javax.annotation.PreDestroy;
 
-@Configuration
+//@Configuration
 public class RedisConfig {
 
     @Autowired

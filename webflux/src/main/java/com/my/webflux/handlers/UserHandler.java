@@ -16,7 +16,7 @@ import java.nio.ByteBuffer;
 import java.util.HashMap;
 import java.util.Map;
 
-@Service
+//@Service
 public class UserHandler {
 
     @Autowired

@@ -23,4 +23,9 @@ public class WebfluxApplicationTests {
 				.subscribe(System.out::println);
 	}
 
+	@Test
+	public void test() {
+
+	}
+
 }
